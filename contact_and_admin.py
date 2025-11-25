@@ -5,11 +5,10 @@ def contact_and_admin():
     st.write("This is our contact and administration page and this will be updated soon.")
 
     alliances = {
-        "GP70": {
-            "logo": "GP70_logo.png",
+        "THE COUNCIL OF FIRE": {
+            "logo": "",
             "r4_members": [
-                {"name": "KING/R5", "role": "GLORIOUS 70'S LEADER", "description": "RIGHFUL KING OF 3270", "photos": ["PapaAccDc.png", "PapaAcc1.png", "PapaAcc2.png"]},
-                {"name": "PINKYRABBIT/GALEDRAGON", "role": "SHARED KING/QUEEN RULER", "description": "WARRIOR OF 70 / RALLY QUEEN", "photos": ["PinkyAccDc.png", "PinkyAcc1.png", "PinkyAcc2.png"]},
+                {"name": "KING/R5", "role": "THE COUNCIL", "description": " ", "photos": 
                 {"name": "Member 3", "role": "Role 3", "description": "Description 3"},
                 {"name": "Member 4", "role": "Role 4", "description": "Description 4"},
                 {"name": "Member 5", "role": "Role 5", "description": "Description 5"},
