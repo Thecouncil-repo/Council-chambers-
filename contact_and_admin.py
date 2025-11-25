@@ -6,7 +6,7 @@ def contact_and_admin():
 
     alliances = {
         "THE COUNCIL OF FIRE": {
-            "logo": "",
+            "": "",
             "r4_members": [
                 {"name": "KING/R5", "role": "THE COUNCIL", "description": " ", "photos": 
                 {"name": "Member 3", "role": "Role 3", "description": "Description 3"},
@@ -17,7 +17,7 @@ def contact_and_admin():
                 {"name": "Member 8", "role": "Role 8", "description": "Description 8"}
             ]
         },
-        "GK70": {
+        "THE COUNCIL OF WATER": {
             "logo": "GK70_logo.png",
             "r4_members": [
                 {"name": "Member 1", "role": "Role 1", "description": "Description 1"},
@@ -30,7 +30,7 @@ def contact_and_admin():
                 {"name": "Member 8", "role": "Role 8", "description": "Description 8"}
             ]
         },
-        "GY70": {
+        "THE COUNCIL OF LIFE": {
             "logo": "GY70_logo.png",
             "r4_members": [
                 {"name": "Member 1", "role": "Role 1", "description": "Description 1"},
